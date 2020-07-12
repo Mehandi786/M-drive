@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DialogApp1</string>
+    <string-array name="mobileBrands">
+        <item>LG</item>
+        <item>Samsung</item>
+        <item>Sony</item>
+        <item>MI</item>
+    </string-array>
+</resources>

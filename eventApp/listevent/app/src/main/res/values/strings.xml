@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">listevent</string>
+    <string-array name="items">
+        <item>LG</item>
+        <item>Samsung</item>
+        <item>Motorola</item>
+        <item>MI</item>
+    </string-array>
+</resources>

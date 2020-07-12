@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivityComApp2</string>
+    <string-array name="movies">
+        <item>Movie1</item>
+        <item>Movie2</item>
+        <item>Movie3</item>
+    </string-array>
+</resources>
